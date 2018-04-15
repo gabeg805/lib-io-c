@@ -22,6 +22,7 @@ and then linking it to your program with all the other object files you've
 compiled:
 ```
 gcc [options] -o PROGRAM obj1.o obj2.o ... io.o
+```
 
 ## Uninstall
 
